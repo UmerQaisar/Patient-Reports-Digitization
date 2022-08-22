@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "667499092740",
+    "project_id": "patient-reports-digitization",
+    "storage_bucket": "patient-reports-digitization.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667499092740:android:67d12c208135e753330e51",
+        "android_client_info": {
+          "package_name": "com.onyx.patientsreportsdigitization"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "667499092740-6la8er55rbf75931td9ve0hu6ep2p6sg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKB4hz98dccN2Xvby9-ZphTCvg9gV-pwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "667499092740-6la8er55rbf75931td9ve0hu6ep2p6sg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
